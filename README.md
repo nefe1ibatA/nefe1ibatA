@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefe1ibatA&show_icons=true&theme=algolia)
+
+- 🔭 I’m currently learning Computer Science and Technology at Zhejiang University.
+- 🌱 I’m currently learning relevant work of cross-domain recommendation.
+- 👯 I’m looking to collaborate on anything makes me progress.
+- 🤔 I’m looking for help with coding...
+- 💬 Ask me about anything you would like to.
+- ⚡ Fun fact: I'm kinda lazy except when working🧐.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefe1ibatA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
