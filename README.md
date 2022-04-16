@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefe1ibatA&show_icons=true&theme=algolia)
 
-- 🔭 I’m currently learning Computer Science and Technology at Zhejiang University.
-- 🌱 I’m currently learning relevant work of cross-domain recommendation.
+- 🔭 I’m currently learning **Computer Science and Technology** at **Zhejiang University**.
+- 🌱 I’m currently learning relevant work of **cross-domain recommendation**.
 - 👯 I’m looking to collaborate on anything makes me progress.
 - 🤔 I’m looking for help with coding...
 - 💬 Ask me about anything you would like to.
